@@ -1,5 +1,5 @@
 import React from 'react'
-import { BeakerIcon, BoltIcon, ExclamationTriangleIcon, SunIcon } from '@heroicons/react/24/solid'
+import { BeakerIcon, BoltIcon, ExclamationTriangleIcon, SunIcon } from '@heroicons/react/24/outline'
 
 export default function HomePage() {
   return (

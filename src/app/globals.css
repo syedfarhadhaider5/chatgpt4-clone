@@ -6,6 +6,9 @@
   .infoText{
     @apply p-4 bg-gray-700/50 rounded-lg
   }
+  .newChat-row{
+    @apply flex items-center px-5 justify-center rounded-lg text-sm space-x-2 py-3 pr-20 hover:bg-gray-700/70 cursor-pointer text-gray-300 transition-all duration-200 ease-out
+  }
 }
 /* :root {
   --foreground-rgb: 0, 0, 0;
